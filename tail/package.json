@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3",
+    "swiper": "^11.1.11"
   }
 }
